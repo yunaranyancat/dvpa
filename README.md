@@ -11,6 +11,7 @@ Its main goal is to be an aid for security professionals to test their skills an
 
 * Unauthenticated access to API endpoint
 * Use of Basic Authentication
+* Use of weak credentials
 
 # Installation and setup
 
