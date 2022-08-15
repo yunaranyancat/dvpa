@@ -7,11 +7,12 @@ Its main goal is to be an aid for security professionals to test their skills an
 
 14th August 2022 - v0.1
 
-# Vulnerabilities 
+# Vulnerabilities
 
 * Unauthenticated access to API endpoint
 * Use of Basic Authentication
 * Use of weak credentials
+* RCE via subprocess
 
 # Installation and setup
 
