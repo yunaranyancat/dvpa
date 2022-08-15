@@ -35,6 +35,10 @@ def register():
     users[username] = generate_password_hash(password)
     return jsonify({'created':True}), 201
 
+@app.route('/greet/<user>')
+def greet(user):
+    output = subprocess.getoutput("echo Hello " + user)
+    return jsonify({'result':output}), 200
 
 if __name__ == '__main__':
     app.run()
