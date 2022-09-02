@@ -18,7 +18,5 @@ Its main goal is to be an aid for security professionals to test their skills an
 # Installation and setup
 
 ` git clone https://github.com/yunaranyancat/dvpa `
-
 ` pip3 install -r requirements.txt `
-
 ` python3 run.py `
