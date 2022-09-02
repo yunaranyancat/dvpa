@@ -13,6 +13,7 @@ Its main goal is to be an aid for security professionals to test their skills an
 * Use of Basic Authentication
 * Use of weak credentials
 * RCE via subprocess
+* Insecure file upload
 
 # Installation and setup
 
