@@ -6,6 +6,7 @@ Its main goal is to be an aid for security professionals to test their skills an
 # Version Control
 
 14th August 2022 - v0.1
+
 2nd September 2022 - v0.2
 
 # Vulnerabilities
